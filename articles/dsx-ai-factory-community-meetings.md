@@ -6,16 +6,14 @@ Starting at KubeCon + CloudNativeCon North America 2026, DSX AI Factory projects
 
 ## The first communities
 
-Four project communities launch this week, and more are getting ready to follow.
+Two project communities launch this week, and more are getting ready to follow.
 
-| Project | Slack | Mailing list | Meetings | Notes | Recordings |
-| --- | --- | --- | --- | --- | --- |
-| [NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator) | `#gpu-operator` | [gpu-operator@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/gpu-operator) | Every 4 weeks on Mondays | [Notes](https://docs.google.com/document/d/1rHtnDgfv1IRiFmGpOrc7v1MGVfeCo2ASzWZOmKscyyg/edit) | [Recordings](https://drive.google.com/drive/folders/1w1JYjq4u5csDa24IGCoZfIdgAFoREAKT) |
-| [NVIDIA Infra Controller (NICo)](https://github.com/dsx-ai-factory/infra-controller) | `#nico` | [nico@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/nico) | Not scheduled yet | [Notes](https://docs.google.com/document/d/1olv3nwIOjSWnO9azeMgzIyvZA8ssSdn-ACip_2JI9zQ/edit) | [Recordings](https://drive.google.com/drive/folders/1hACf1AJWBhpzhdxpC5ZBZBudWc_-1f5D) |
-| [NVIDIA Run:ai](https://github.com/dsx-ai-factory/run-ai) | `#run-ai` | [run-ai@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/run-ai) | Not scheduled yet | [Notes](https://docs.google.com/document/d/1JbbBnGL-E0OS0pH0bjf7OSCYNRJyyMpzSkg2s12qHcc/edit) | [Recordings](https://drive.google.com/drive/folders/1YDLcF6aOM9d2WbAy5iXJ_6Xry5H4B30Z) |
-| [NVKE](https://github.com/dsx-ai-factory/nvke) and [NVKR](https://github.com/dsx-ai-factory/nvkr) | `#nvke` | [nvke@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/nvke) | Not scheduled yet | [Notes](https://docs.google.com/document/d/1l5jWUBUG5ZkuZTFFT55T1qpoIN7VCXoU0dAZu0LE4UQ/edit) | [Recordings](https://drive.google.com/drive/folders/1-_ACwWrusc9hSkZ-r8MSc7ood1oIbazU) |
+| Project | Slack | Mailing list | Drive folder |
+| --- | --- | --- | --- |
+| [NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator) | `#gpu-operator` | [gpu-operator@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/gpu-operator) | [GPU Operator folder](https://drive.google.com/drive/folders/1o7_A5w-Hq1jNgnwOj8Q415LLxlmLwNla) |
+| [NVKE](https://github.com/dsx-ai-factory/nvke) and [NVKR](https://github.com/dsx-ai-factory/nvkr) | `#nvke` | [nvke@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/nvke) | [NVKE folder](https://drive.google.com/drive/folders/1U-MwG5p1apImw8tsuwCRoT-h3rl5XADP) |
 
-The GPU Operator community holds its first meeting in person at the [DSX OS Inference Workshop](https://events.nvidia.com/dsx-os-inference-workshop) on Monday, November 9, 2026, from 4:45 to 5:45 PM MT, and then meets online every 4 weeks on Mondays. The other communities will announce meetings on their mailing lists once they are scheduled.
+The GPU Operator community holds its first meeting in person at the [DSX OS Inference Workshop](https://events.nvidia.com/dsx-os-inference-workshop) on Monday, November 9, 2026, from 4:45 to 5:45 PM MT, and then meets online every 4 weeks on Mondays. The NVKE community will announce its meetings on its mailing list once they are scheduled.
 
 Each project also lists these details in its README, so you can always find them from the code.
 
@@ -59,7 +57,7 @@ Every project community runs the same way:
 
 ## What comes next
 
-These four communities are the first. Other DSX AI Factory projects are preparing to launch theirs, and each will announce its community in its README and on the calendar when it is ready.
+These two communities are the first. Other DSX AI Factory projects are preparing to launch theirs, and each will announce its community in its README and on the calendar when it is ready.
 
 ---
 
