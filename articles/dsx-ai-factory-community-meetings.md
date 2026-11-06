@@ -34,12 +34,12 @@ Meeting notes documents are open for anyone to comment on, so you can add agenda
 
 ## The first communities
 
-The first communities are NVIDIA GPU Operator and NVKE.
+The first communities are NVIDIA GPU Operator and NVIDIA Kubernetes Engine (NVKE).
 
 | Project | Slack | Mailing list | Drive folder |
 | --- | --- | --- | --- |
 | [NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator) | `#gpu-operator` | [gpu-operator@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/gpu-operator) | [GPU Operator folder](https://drive.google.com/drive/folders/1o7_A5w-Hq1jNgnwOj8Q415LLxlmLwNla) |
-| [NVKE](https://github.com/dsx-ai-factory/nvke) and [NVKR](https://github.com/dsx-ai-factory/nvkr) | `#nvke` | [nvke@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/nvke) | [NVKE folder](https://drive.google.com/drive/folders/1U-MwG5p1apImw8tsuwCRoT-h3rl5XADP) |
+| [NVIDIA Kubernetes Engine (NVKE)](https://github.com/dsx-ai-factory/nvke) and [NVKR](https://github.com/dsx-ai-factory/nvkr) | `#nvke` | [nvke@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/nvke) | [NVKE folder](https://drive.google.com/drive/folders/1U-MwG5p1apImw8tsuwCRoT-h3rl5XADP) |
 
 NVIDIA GPU Operator holds its first community meeting in person at the [DSX OS Contributor Workshop](https://events.nvidia.com/dsx-os-inference-workshop) at KubeCon + CloudNativeCon North America 2026 in Salt Lake City on Monday, November 9, 2026, from 4:45 to 5:45 PM MT. It then meets online every 4 weeks on Mondays. Future NVKE meetings will be announced on its mailing list.
 
