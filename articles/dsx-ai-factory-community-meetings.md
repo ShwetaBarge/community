@@ -1,8 +1,8 @@
-# Launching Open Community Meetings for DSX AI Factory Projects
+# Launching Open Communities for DSX AI Factory Projects
 
 Open source is more than public code. A project is open when the people who use it can see how it is run, talk with the people who build it, and help decide what comes next. Bringing the DSX OS projects together in [github.com/dsx-ai-factory](https://github.com/dsx-ai-factory) gave them one home for code. Community meetings give them one home for conversation.
 
-Starting at KubeCon + CloudNativeCon North America 2026, DSX AI Factory projects are launching their communities: public meetings on a regular schedule, a Slack channel, a mailing list, and open meeting notes and recordings for each project. Anyone can take part. You do not need to work at NVIDIA, be a customer, or have contributed before.
+Starting at KubeCon + CloudNativeCon North America 2026, DSX AI Factory projects are launching their communities: a Slack channel, a mailing list, and open meeting notes and recordings for each project, with public community meetings as each project sets its schedule. Anyone can take part. You do not need to work at NVIDIA, be a customer, or have contributed before.
 
 ## The first communities
 
@@ -11,11 +11,11 @@ Four project communities launch this week, and more are getting ready to follow.
 | Project | Slack | Mailing list | Meetings | Notes | Recordings |
 | --- | --- | --- | --- | --- | --- |
 | [NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator) | `#gpu-operator` | [gpu-operator@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/gpu-operator) | Every 4 weeks on Mondays | [Notes](https://docs.google.com/document/d/1rHtnDgfv1IRiFmGpOrc7v1MGVfeCo2ASzWZOmKscyyg/edit) | [Recordings](https://drive.google.com/drive/folders/1w1JYjq4u5csDa24IGCoZfIdgAFoREAKT) |
-| [NVIDIA Infra Controller (NICo)](https://github.com/dsx-ai-factory/infra-controller) | `#nico` | [nico@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/nico) | Will be announced on the mailing list | [Notes](https://docs.google.com/document/d/1olv3nwIOjSWnO9azeMgzIyvZA8ssSdn-ACip_2JI9zQ/edit) | [Recordings](https://drive.google.com/drive/folders/1hACf1AJWBhpzhdxpC5ZBZBudWc_-1f5D) |
-| [NVIDIA Run:ai](https://github.com/dsx-ai-factory/run-ai) | `#run-ai` | [run-ai@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/run-ai) | Will be announced on the mailing list | [Notes](https://docs.google.com/document/d/1JbbBnGL-E0OS0pH0bjf7OSCYNRJyyMpzSkg2s12qHcc/edit) | [Recordings](https://drive.google.com/drive/folders/1YDLcF6aOM9d2WbAy5iXJ_6Xry5H4B30Z) |
-| [NVKE](https://github.com/dsx-ai-factory/nvke) and [NVKR](https://github.com/dsx-ai-factory/nvkr) | `#nvke` | [nke@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/nke) | Will be announced on the mailing list | [Notes](https://docs.google.com/document/d/1l5jWUBUG5ZkuZTFFT55T1qpoIN7VCXoU0dAZu0LE4UQ/edit) | [Recordings](https://drive.google.com/drive/folders/1-_ACwWrusc9hSkZ-r8MSc7ood1oIbazU) |
+| [NVIDIA Infra Controller (NICo)](https://github.com/dsx-ai-factory/infra-controller) | `#nico` | [nico@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/nico) | Not scheduled yet | [Notes](https://docs.google.com/document/d/1olv3nwIOjSWnO9azeMgzIyvZA8ssSdn-ACip_2JI9zQ/edit) | [Recordings](https://drive.google.com/drive/folders/1hACf1AJWBhpzhdxpC5ZBZBudWc_-1f5D) |
+| [NVIDIA Run:ai](https://github.com/dsx-ai-factory/run-ai) | `#run-ai` | [run-ai@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/run-ai) | Not scheduled yet | [Notes](https://docs.google.com/document/d/1JbbBnGL-E0OS0pH0bjf7OSCYNRJyyMpzSkg2s12qHcc/edit) | [Recordings](https://drive.google.com/drive/folders/1YDLcF6aOM9d2WbAy5iXJ_6Xry5H4B30Z) |
+| [NVKE](https://github.com/dsx-ai-factory/nvke) and [NVKR](https://github.com/dsx-ai-factory/nvkr) | `#nvke` | [nke@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/nke) | Not scheduled yet | [Notes](https://docs.google.com/document/d/1l5jWUBUG5ZkuZTFFT55T1qpoIN7VCXoU0dAZu0LE4UQ/edit) | [Recordings](https://drive.google.com/drive/folders/1-_ACwWrusc9hSkZ-r8MSc7ood1oIbazU) |
 
-The GPU Operator and NVKE communities hold their first meetings in person at the [DSX OS Inference Workshop](https://events.nvidia.com/dsx-os-inference-workshop) on November 9, 2026. The NICo and Run:ai communities start with online meetings after KubeCon. From then on, all meetings are online.
+The GPU Operator community holds its first meeting in person at the [DSX OS Inference Workshop](https://events.nvidia.com/dsx-os-inference-workshop) on Monday, November 9, 2026, from 4:45 to 5:45 PM MT, and then meets online every 4 weeks on Mondays. The other communities will announce meetings on their mailing lists once they are scheduled.
 
 Each project also lists these details in its README, so you can always find them from the code.
 
