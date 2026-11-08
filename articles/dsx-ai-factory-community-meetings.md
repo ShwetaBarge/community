@@ -43,6 +43,8 @@ The first communities are NVIDIA GPU Operator and NVIDIA Kubernetes Engine (NVKE
 
 NVIDIA GPU Operator holds its first community meeting in person at the [DSX OS Contributor Workshop](https://events.nvidia.com/dsx-os-inference-workshop) at KubeCon + CloudNativeCon North America 2026 in Salt Lake City on Monday, November 9, 2026, from 4:45 to 5:45 PM MT. It then meets online every 4 weeks on Mondays. Future NVIDIA Kubernetes Engine meetings will be announced on its mailing list.
 
+The [communities list](../communities/README.md) has the current coordinates for every community.
+
 ## How to join
 
 1. Request an invite to the DSX AI Factory Slack workspace at [inviter.co/dsx-ai-factory](https://inviter.co/dsx-ai-factory), then join the project channel.
@@ -52,7 +54,7 @@ NVIDIA GPU Operator holds its first community meeting in person at the [DSX OS C
 
 ## What comes next
 
-NVIDIA GPU Operator and NVIDIA Kubernetes Engine are the first communities. More communities are on the way.
+NVIDIA GPU Operator and NVIDIA Kubernetes Engine are the first communities. More communities are on the way, and each will be added to the [communities list](../communities/README.md).
 
 ---
 
