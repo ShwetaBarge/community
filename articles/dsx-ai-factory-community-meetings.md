@@ -30,7 +30,10 @@ Meetings are open to everyone under the project's Code of Conduct. You do not ne
 
 ## How community meetings work
 
-Meeting notes documents are open for anyone to comment on, so you can add agenda topics and questions before a meeting. Meetings are a place for discussion, and the public Drive folders hold meeting notes, recordings, and slides. Conversations continue in Slack and on the mailing lists between meetings.
+- **A regular cadence.** Meetings follow a set schedule, announced on the mailing list and calendar, and keep going even when only a few people attend.
+- **A public agenda.** Anyone can comment on the meeting notes document to add a topic or question before the meeting.
+- **Public notes and recordings.** The public Drive folder holds meeting notes, recordings of online meetings, and slides.
+- **Follow-up in the open.** Conversations continue in Slack and on the mailing list between meetings.
 
 ## The first communities
 
