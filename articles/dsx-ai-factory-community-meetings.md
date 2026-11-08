@@ -2,9 +2,13 @@
 
 Open source is more than public code. It also gives people who use the software a way to understand how it is developed, talk with contributors, and share what they need. DSX AI Factory projects are launching open communities and community meetings so developers, users, and potential contributors can take part in those conversations.
 
+These communities are for the people who use and build on these projects: customers, partners, and developers outside NVIDIA. They are a place to share feedback, ask questions, and learn directly from the project maintainers.
+
 ## Why we are launching communities
 
 Issues and pull requests are useful for specific changes. Community meetings create space for the conversations around those changes: why a design took a particular direction, what people are trying to do, and which problems deserve attention. They also make it easier for people who are new to a project to listen, ask questions, and participate.
+
+Open source runs on people, not just code. Meeting maintainers and other users face to face builds the trust and relationships that keep a project healthy, and turns occasional contributors into a community.
 
 Community meetings are common practice in open source. Kubernetes special interest groups and many CNCF projects use the same general model. Our communities follow that model with open participation, public discussion, and shared meeting information.
 
