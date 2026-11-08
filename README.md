@@ -15,6 +15,10 @@ The open-source DSX components are listed, with their descriptions and latest
 releases, on the [`dsx-ai-factory` organization page](https://github.com/orgs/dsx-ai-factory/repositories).
 GitHub keeps that list current as repositories are added or released.
 
+## Communities
+
+DSX AI Factory projects run open communities with Slack channels, mailing lists, and community meetings. The [communities list](communities/README.md) has the coordinates for each one, and [community meetings](communities/community-meetings.md) describes how the meetings work.
+
 ## Contributing
 
 Contributions are welcome from NVIDIA employees, partners, customers, and the wider

@@ -23,6 +23,10 @@ Content that belongs here:
 | Exploratory post | Open-source philosophy, governance updates, how NVIDIA approaches a problem |
 | Contributor spotlight | Who a contributor is, what they built, and what they learned |
 
+The [`communities/`](communities/README.md) directory lists the open communities for DSX AI Factory
+projects and how their meetings work. To add or update a community, see
+[How this page is maintained](communities/README.md#how-this-page-is-maintained).
+
 Content that does **not** belong here: product documentation, install and user
 guides, bug reports against a component, or support requests. Those belong with
 the relevant component project.
