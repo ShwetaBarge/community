@@ -17,7 +17,7 @@ To learn how meetings run, see [community-meetings.md](community-meetings.md).
 | Community | Slack | Mailing list | Meetings | Notes | Drive folder |
 | --- | --- | --- | --- | --- | --- |
 | [NVIDIA GPU Operator](#nvidia-gpu-operator) | `#gpu-operator` | [gpu-operator@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/gpu-operator) | Every 4 weeks on Mondays | [Notes](https://docs.google.com/document/d/1rHtnDgfv1IRiFmGpOrc7v1MGVfeCo2ASzWZOmKscyyg/edit) | [Folder](https://drive.google.com/drive/folders/1o7_A5w-Hq1jNgnwOj8Q415LLxlmLwNla) |
-| [NVIDIA Kubernetes Engine (NVKE)](#nvidia-kubernetes-engine-nvke) | `#nvke` | [nvke@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/nvke) | To be announced | [Notes](https://docs.google.com/document/d/1l5jWUBUG5ZkuZTFFT55T1qpoIN7VCXoU0dAZu0LE4UQ/edit) | [Folder](https://drive.google.com/drive/folders/1U-MwG5p1apImw8tsuwCRoT-h3rl5XADP) |
+| [NVIDIA Kubernetes Engine (NVKE)](#nvidia-kubernetes-engine-nvke) | `#nvke` | To be announced | To be announced | [Notes](https://docs.google.com/document/d/1l5jWUBUG5ZkuZTFFT55T1qpoIN7VCXoU0dAZu0LE4UQ/edit) | [Folder](https://drive.google.com/drive/folders/1U-MwG5p1apImw8tsuwCRoT-h3rl5XADP) |
 
 ### NVIDIA GPU Operator
 
@@ -37,7 +37,7 @@ A management plane for GPU Kubernetes on bare metal, and NVKR, the recipes that 
 
 - **Repositories:** [dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke), [dsx-ai-factory/nvkr](https://github.com/dsx-ai-factory/nvkr)
 - **Slack:** `#nvke`
-- **Mailing list:** [nvke@dsxaifactory.com](https://groups.google.com/a/dsxaifactory.com/g/nvke)
+- **Mailing list:** to be announced
 - **Meetings:** to be announced on the mailing list
 - **Meeting notes:** [Google Doc](https://docs.google.com/document/d/1l5jWUBUG5ZkuZTFFT55T1qpoIN7VCXoU0dAZu0LE4UQ/edit)
 - **Drive folder:** [notes, recordings, and slides](https://drive.google.com/drive/folders/1U-MwG5p1apImw8tsuwCRoT-h3rl5XADP)
