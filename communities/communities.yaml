@@ -1,0 +1,53 @@
+# DSX AI Factory communities
+#
+# This file is the source of truth for community coordinates.
+# communities/README.md shows the same information as a readable page.
+# When you change this file, update README.md in the same pull request.
+#
+# A community can cover one project or several related projects.
+# List every repository the community covers under `repositories`.
+#
+# Fields
+#   id:            short identifier, lowercase with hyphens
+#   name:          display name
+#   description:   one sentence on what the community covers
+#   repositories:  GitHub repositories the community covers
+#   slack:         channel in the DSX AI Factory Slack workspace
+#   mailing_list:  address and join page (meeting invites and announcements)
+#   meetings:      cadence, day, time and time zone; "to be announced" if not set
+#   notes:         meeting notes document (open for comments)
+#   drive_folder:  public folder with notes, recordings and slides
+#   leads:         optional; GitHub handles of the people who run the community
+
+communities:
+  - id: gpu-operator
+    name: NVIDIA GPU Operator
+    description: Creates, configures, and manages GPUs in Kubernetes.
+    repositories:
+      - https://github.com/NVIDIA/gpu-operator
+    slack: "#gpu-operator"
+    mailing_list:
+      address: gpu-operator@dsxaifactory.com
+      join: https://groups.google.com/a/dsxaifactory.com/g/gpu-operator
+    meetings:
+      cadence: every 4 weeks
+      day: Monday
+      time: to be announced
+      first_meeting: In person at the DSX OS Contributor Workshop, Monday, November 9, 2026, 4:45 to 5:45 PM MT, Salt Lake City
+    notes: https://docs.google.com/document/d/1rHtnDgfv1IRiFmGpOrc7v1MGVfeCo2ASzWZOmKscyyg/edit
+    drive_folder: https://drive.google.com/drive/folders/1o7_A5w-Hq1jNgnwOj8Q415LLxlmLwNla
+
+  - id: nvke
+    name: NVIDIA Kubernetes Engine (NVKE)
+    description: A management plane for GPU Kubernetes on bare metal, and NVKR, the recipes that build NVKE node images and components.
+    repositories:
+      - https://github.com/dsx-ai-factory/nvke
+      - https://github.com/dsx-ai-factory/nvkr
+    slack: "#nvke"
+    mailing_list:
+      address: nvke@dsxaifactory.com
+      join: https://groups.google.com/a/dsxaifactory.com/g/nvke
+    meetings:
+      cadence: to be announced on the mailing list
+    notes: https://docs.google.com/document/d/1l5jWUBUG5ZkuZTFFT55T1qpoIN7VCXoU0dAZu0LE4UQ/edit
+    drive_folder: https://drive.google.com/drive/folders/1U-MwG5p1apImw8tsuwCRoT-h3rl5XADP
